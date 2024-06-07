@@ -13,4 +13,4 @@ desmentir sesgos y creencias que tengamos sobre este sector.
 - Pandas
 - Seaborn
 - Matplotlib.Pyplot
-  
+- Selenium
